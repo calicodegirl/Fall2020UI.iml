@@ -1,0 +1,40 @@
+[INFO 18:21:30.708 - Running loop 0 - {log4jdemo.Log4jDemo}
+[INFO 18:21:30.734 - Running loop 1 - {log4jdemo.Log4jDemo}
+[INFO 18:21:30.734 - Running loop 2 - {log4jdemo.Log4jDemo}
+[INFO 18:21:30.735 - Running loop 3 - {log4jdemo.Log4jDemo}
+[INFO 18:21:30.737 - Running loop 4 - {log4jdemo.Log4jDemo}
+[INFO 18:21:30.737 - Received request for calculating tax - {log4jdemo.Log4jDemo}
+[DEBUG 18:21:30.738 - Persons name salary:123456.0 marriage status: true - {log4jdemo.Log4jDemo}
+[INFO 18:21:30.738 - Received request for calculating tax - {log4jdemo.Log4jDemo}
+[DEBUG 18:21:30.739 - Persons name salary:-123.0 marriage status: true - {log4jdemo.Log4jDemo}
+[ERROR 18:21:30.739 - Salary can not be negative - {log4jdemo.Log4jDemo}
+[INFO 18:24:23.900 - Running loop 0 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:24:23.922 - Running loop 1 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:24:23.922 - Running loop 2 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:24:23.922 - Running loop 3 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:24:23.923 - Running loop 4 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:24:23.923 - Received request for calculating tax - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:18)
+[DEBUG 18:24:23.924 - Persons name salary:123456.0 marriage status: true - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:19)
+[INFO 18:24:23.927 - Received request for calculating tax - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:18)
+[DEBUG 18:24:23.928 - Persons name salary:-123.0 marriage status: true - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:19)
+[ERROR 18:24:23.929 - Salary can not be negative - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:28)
+[INFO 18:26:53.906 - Running loop 0 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:26:53.918 - Running loop 1 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:26:53.918 - Running loop 2 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:26:53.918 - Running loop 3 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:26:53.918 - Running loop 4 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:26:53.919 - Received request for calculating tax - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:18)
+[DEBUG 18:26:53.920 - Persons name salary:123456.0 marriage status: true - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:19)
+[INFO 18:26:53.920 - Received request for calculating tax - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:18)
+[DEBUG 18:26:53.920 - Persons name salary:-123.0 marriage status: true - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:19)
+[ERROR 18:26:53.920 - Salary can not be negative - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:28)
+[INFO 18:27:04.585 - Running loop 0 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:27:04.592 - Running loop 1 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:27:04.592 - Running loop 2 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:27:04.593 - Running loop 3 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:27:04.593 - Running loop 4 - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.main(Log4jDemo.java:11)
+[INFO 18:27:04.593 - Received request for calculating tax - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:18)
+[DEBUG 18:27:04.593 - Persons name salary:123456.0 marriage status: true - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:19)
+[INFO 18:27:04.594 - Received request for calculating tax - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:18)
+[DEBUG 18:27:04.594 - Persons name salary:-123.0 marriage status: true - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:19)
+[ERROR 18:27:04.594 - Salary can not be negative - {log4jdemo.Log4jDemo}log4jdemo.Log4jDemo.calculateTax(Log4jDemo.java:28)

@@ -1,0 +1,4 @@
+# Project exclude paths
+/Meetup/target/
+/Practice/target/
+/target/

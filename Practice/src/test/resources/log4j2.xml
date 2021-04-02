@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--This xml file is needed by log4j library-->
+<Configuration status="INFO">
+    <Appenders>
+        <Console name="ABC" target="SYSTEM_OUT">
+<!--            I want the logs to be printed out this format
+start with the current time-->
+            <PatternLayout pattern="[%level] %d{HH:mm:ss.SSS} - %msg - %l%n"/>
+        </Console>
+        <File name="DevXSchool" fileName="logs/meetup_${date:yyyy-MM-dd}.log" append="true">
+            <PatternLayout pattern = "[%level %d{HH:mm:ss.SSS} - %msg - {%c}%l%n"/>
+                </File>
+    </Appenders>
+
+    <Loggers>
+        <Root level="DEBUG">
+            <AppenderRef ref="ABC"/>
+            <AppenderRef ref="DevXSchool"/>
+        </Root>
+    </Loggers>
+
+</Configuration>
